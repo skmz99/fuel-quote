@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+
 import App from './App';
 //Some reason index.js and App.js need this exact line (line 6) in each file for routing to work
 import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
